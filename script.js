@@ -73,7 +73,7 @@
     if(!screen||!message||!progress||!countdown) return;
 
     const text='As you study with this practice CBT exam, let God give you exam success and excellence in your real exam. A is the goal 🔥';
-    const duration=15000;
+    const duration=10000;
     const started=performance.now();
     let typed=0;
     let lastType=started;
